@@ -1,4 +1,4 @@
-# alura-7daysofcode3day
+# Alura-7daysofcode3day
 
 Alura-desafio-7-dias-HTML-CSS
 
